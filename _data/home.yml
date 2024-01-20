@@ -1,39 +1,45 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: home
+    url: index
 
-  - title: blog
-    url: blog
+  - title: x1
+    url: 
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: x2
+    url: 
+  
+  - title: x3
+    url: 
 
 project_entries:
-  - title: Project 1
+  - title: war of ideas
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: global media bias, institutions, ideological conflicts
+    highlight: NEW
 
-  - title: Project 2
+  - title: opinion leaders
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Chinese opinion leaders on Twitter, cultural transmission
 
-  - title: Project 3
+  - title: sex focus of research
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: male dominated investments, biomedical research, disease
 
-  - title: Project 4
+  - title: government texts
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: financial reports, US local governments, disclosure
 
-  - title: Project 5
+  - title: trade war data
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: trade war exposures, literature, events, impacts
 
-  - title: Project 6
+  - title: Fintech course
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: introductory Fintech course, research-based content  
+
+  - title: method course
+    url: overview-post
+    desc: PhD method course for empirical corporate finance
 
 old_project_entries:
   - title: Soopr
@@ -54,9 +60,6 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
   - title: twitter
     url: https://twitter.com/abhinav
 

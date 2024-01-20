@@ -5,8 +5,8 @@ html { height: 100%; }
 
 body {
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  font-size: 1.0rem;
-  line-height: 2;
+  font-size: 0.8rem;
+  line-height: 1.8;
   margin: 0;
   min-height: 100%;
 }
@@ -27,12 +27,12 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
-p { margin: 1em 0; }
+p { margin: 0.8em 0; }
 
 li { margin: 0.4em 0; }
 
 .w {
-  max-width: 720px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 4em 2em;
 }
